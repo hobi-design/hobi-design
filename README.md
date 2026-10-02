@@ -1,9 +1,9 @@
 <a href="https://www.hobi.design"><img src="assets/banner.webp" alt="House of Brilliant Ideas, a creative studio in Los Angeles and Bombay" width="100%" align="top"></a>
-<a href="https://www.hobi.design/capabilities/brand"><img src="assets/brand.png" alt="Brand: say it like you mean it." width="33.33%" align="top"></a><a href="https://www.hobi.design/capabilities/web"><img src="assets/web.png" alt="Web: sites that do the selling." width="33.33%" align="top"></a><a href="https://www.hobi.design/capabilities/product"><img src="assets/product.png" alt="Product: from idea to interface." width="33.33%" align="top"></a>
+<a href="https://www.hobi.design/capabilities/strategy"><img src="assets/strategy.png" alt="Strategy: research, positioning and the plan behind the work." width="25%" align="top"></a><a href="https://www.hobi.design/capabilities/product"><img src="assets/product.png" alt="Product: physical or digital, from the plan to the people buying it." width="25%" align="top"></a><a href="https://www.hobi.design/capabilities/brand"><img src="assets/brand.png" alt="Brand: identity, voice and everything that carries them." width="25%" align="top"></a><a href="https://www.hobi.design/capabilities/design"><img src="assets/design.png" alt="Design: sites, systems and visuals, designed and built." width="25%" align="top"></a>
 
 <br>
 
-House of Brilliant Ideas is a multidisciplinary creative studio creating memorable digital experiences for businesses, big and small. One team for research, design and storytelling, working remotely from Los Angeles and Bombay with clients around the world.
+House of Brilliant Ideas is a multidisciplinary creative studio. Working hard, remotely and from around the globe.
 
 ### Work
 
