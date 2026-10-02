@@ -3,16 +3,17 @@
 
 <br>
 
-House of Brilliant Ideas is a multidisciplinary creative studio. Working hard, remotely and from around the globe.
+House of Brilliant Ideas is a multidisciplinary studio for strategy, product, brand and design. One team takes the work from the first question to the finished product, from Los Angeles and Bombay.
 
-### Work
+<br>
 
-[Alliciante Jewels](https://www.hobi.design/work/alliciante-jewels) · [Arcion Labs](https://www.hobi.design/work/arcion) · [Evolv Technologies](https://www.hobi.design/work/evolv-technology) · [Smoky Mountain CBD](https://www.hobi.design/work/smoky-mountain-cbd) · [All work](https://www.hobi.design/work)
+<a href="https://www.hobi.design/work"><img src="assets/work-head.png" alt="Selected work" width="100%" align="top"></a>
+<a href="https://www.hobi.design/work/alliciante-jewels"><img src="assets/work-alliciante.jpg" alt="Alliciante Jewels: modernizing heritage jewelry for a new generation" width="50%" align="top"></a><a href="https://www.hobi.design/work/arcion"><img src="assets/work-arcion.jpg" alt="Arcion Labs, acquired by Databricks: telling the story of a data revolution" width="50%" align="top"></a>
+<a href="https://www.hobi.design/work/evolv-technology"><img src="assets/work-evolv.jpg" alt="Evolv Technology: business messaging for an AI weapons-detection company" width="50%" align="top"></a><a href="https://www.hobi.design/work/smoky-mountain-cbd"><img src="assets/work-smcbd.jpg" alt="Smoky Mountain CBD: rebranding hemp products for a mature audience" width="50%" align="top"></a>
+<a href="https://www.hobi.design/lab"><img src="assets/lab.webp" alt="The Brilliant Lab: essays on strategy and design" width="100%" align="top"></a>
+<a href="https://www.hobi.design/contact"><img src="assets/footer.webp" alt="Interested in working with us? Send an inquiry." width="100%" align="top"></a>
 
-### Products
+<br>
 
-[*PROPS!*](https://props.tools/) · Substrate and Scout, coming soon
-
-### Elsewhere
-
-[hobi.design](https://www.hobi.design) · [The Brilliant Lab](https://www.hobi.design/lab) · [Dribbble](https://dribbble.com/HouseOfBrilliantIdeas) · [Behance](https://www.behance.net/brillianideas) · [hello@hobi.design](mailto:hello@hobi.design)
+**Products** · [*PROPS!*](https://props.tools/) · Substrate and Scout, coming soon<br>
+**Elsewhere** · [hobi.design](https://www.hobi.design) · [Dribbble](https://dribbble.com/HouseOfBrilliantIdeas) · [Behance](https://www.behance.net/brillianideas) · [hello@hobi.design](mailto:hello@hobi.design)
